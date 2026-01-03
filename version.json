@@ -1,6 +1,6 @@
 {
     "version": "v3.1.2",
     "repo_url": "https://github.com/holoIntegratedOps/testing",
-    "download_url": "blob:https://github.com/6ad44459-95c2-4210-a7cf-4ec58627edb7",
+    "download_url": "https://raw.githubusercontent.com/holoIntegratedOps/testing/refs/heads/main/download.txt",
     "hash": "c69a16ea913e322a1e532ef7d797672aa2706f6b26e86b07eff9f259b1ee9eef"
 }
